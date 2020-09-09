@@ -33,9 +33,7 @@ chapter = true
 - **Name:** Yuming Zhang 
 - **Email:** yuming.zhang@unige.ch
 - **Office:** Uni-Mail 3209
-- **Office Hours:** Tuesdays 13:00 - 14:00   
-
-
+- **Office Hours:** Tuesdays 13:00 - 14:00
 
 - **Name:** Lionel Voirol   
 - **Email:** lionel.voirol@unige.ch    
@@ -47,7 +45,7 @@ chapter = true
 
 Outre la maîtrise des techniques qui leur seront utiles pour les matières quantitatives comme les probabilités, la statistique et l'économétrie, l'objet du cours est d'étudier les notions mathématiques de base nécessaires à la compréhension et à l'utilisation des méthodes quantitatives utilisées dans les domaines de l'économie et du management. Une attention particulière sera donné au vocabulaire mathématique.
 
-<!--
+
 Plan indicatif des sujets abordés 
 
 1) Analyse I : suites et séries, fonctions continues, fonctions dérivables, série de Taylor, optimisation, intégration.
@@ -66,4 +64,3 @@ Tentative list of topics that will be discussed in this class are listed below:
 - **Web scrapping:** Automatic extraction of data from websites using `rvest` and `quantmod`;
 - **Web applications:** Interactive web apps using Shiny;
 - **High performance computing:** `Rcpp`.
--->
