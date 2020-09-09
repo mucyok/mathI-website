@@ -63,11 +63,11 @@ to insert a gif, must save the gice into a folder in which the gif will appear.
 
 <!--
 to insert a youtube video
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=imu9AooxLSg)](https://www.youtube.com/watch?v=imu9AooxLSg "Everything Is AWESOME")
 -->
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=imu9AooxLSg)](https://www.youtube.com/watch?v=imu9AooxLSg "Everything Is AWESOME")
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJo7COiUtDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imu9AooxLSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
