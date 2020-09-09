@@ -27,7 +27,7 @@ chapter = true
 
 #### Assistants 
 
-| Nom | Email | Bureau | Heure de recepetion. |
+| Nom | Email | Bureau | Heure de recepetion |
 | ------ | ------ | ------ | ----------- |
 | Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail 3209  | By appointment  |
 | Benjamin Poilane | benjamin.poilane@unige.ch | Uni-Mail 3209  | By appointment  |
