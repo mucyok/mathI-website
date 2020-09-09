@@ -1,10 +1,10 @@
 +++
-title = "Syllabus"
+title = "Informations générales"
 date = 2020-09-04T17:28:49+02:00
-weight = 5
+weight = 16
 chapter = true
 +++
- 
+
 ## Information générale
 
 ### Location and Time
@@ -22,24 +22,26 @@ chapter = true
 
 
 #### Instructor
-
 - **Name:** Stéphane Guerrier 
 - **Email:** stephane.guerrier@unige.ch
 - **Office:** Uni-Mail 3212
 - **Office Hours:** Thursdays 13:00 - 14:00
 
 #### Teaching Assistant 
-
 - **Name:** Yuming Zhang 
 - **Email:** yuming.zhang@unige.ch
 - **Office:** Uni-Mail 3209
 - **Office Hours:** Tuesdays 13:00 - 14:00
-
 - **Name:** Lionel Voirol   
 - **Email:** lionel.voirol@unige.ch    
 - **Office:** Uni-Mail 3204
 - **Office Hours:** By appointment
 
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
 
 # Objectif et description du cours
 
