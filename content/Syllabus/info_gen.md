@@ -5,21 +5,19 @@ weight = 5
 chapter = true
 +++
 
-## Information générale
+# Information générale
 
-### Location and Time
+### Lieu et horaire
 
-- **Location:** Uni-Mail, M 2150
-- **Time:** Thursdays 14:15 - 18:00
+- **Lieu:** Uni-Mail, M 2150
+- **horaire:** Thursdays 14:15 - 18:00
 
 ### Course Websites
 
-* **Course Website and Discussion Forum:** <https://piazza.com/university_of_geneva/spring2020/s230023/home>
-* **Online Textbook:**  <http://r.smac-group.com>
+- **Course Website:** <https://piazza.com/university_of_geneva/spring2020/s230023/home>
+- ** Forum et quizz:**  adresse moodle
 
-
-### Course Staff
-
+# Enseignant et assistants 
 
 #### Enseignant 
 - **Nom:** Mucyo Karemera 
