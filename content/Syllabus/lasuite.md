@@ -68,6 +68,4 @@ to insert a youtube video
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=imu9AooxLSg)](https://www.youtube.com/watch?v=imu9AooxLSg "Everything Is AWESOME")
 
 
-<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imu9AooxLSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
