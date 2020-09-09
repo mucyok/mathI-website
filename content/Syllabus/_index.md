@@ -6,3 +6,5 @@ chapter = true
 +++
 
 <iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+![Alt Text](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.mp4?width=500px)
