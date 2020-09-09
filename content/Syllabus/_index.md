@@ -5,4 +5,4 @@ weight = 5
 chapter = true
 +++
 
-<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leroypatterson-cat-glasses-CjmvTCZf2U3p09Cn0h">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a 
