@@ -1,5 +1,5 @@
 +++
-title = "la suite"
+title = "Objectif et decritption du cours"
 date = 2020-09-04T17:28:49+02:00
 weight = 10
 chapter = false

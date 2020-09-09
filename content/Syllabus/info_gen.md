@@ -1,7 +1,7 @@
 +++
 title = "Informations générales"
 date = 2020-09-04T17:28:49+02:00
-weight = 16
+weight = 5
 chapter = true
 +++
 
@@ -21,27 +21,19 @@ chapter = true
 ### Course Staff
 
 
-#### Instructor
-- **Name:** Stéphane Guerrier 
-- **Email:** stephane.guerrier@unige.ch
-- **Office:** Uni-Mail 3212
+#### Enseignant 
+- **Nom:** Mucyo Karemera 
+- **Email:** mucyo.karemera@unige.ch
+- **Office:** Uni-Mail 3208
 - **Office Hours:** Thursdays 13:00 - 14:00
 
-#### Teaching Assistant 
-- **Name:** Yuming Zhang 
-- **Email:** yuming.zhang@unige.ch
-- **Office:** Uni-Mail 3209
-- **Office Hours:** Tuesdays 13:00 - 14:00
-- **Name:** Lionel Voirol   
-- **Email:** lionel.voirol@unige.ch    
-- **Office:** Uni-Mail 3204
-- **Office Hours:** By appointment
+#### Assistants 
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Nom | Email | Bureau | Heure de recepetion. |
+| ------ | ------ | ------ | ----------- |
+| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail 3209  | By appointment  |
+| Benjamin Poilane | benjamin.poilane@unige.ch | Uni-Mail 3209  | By appointment  |
+| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni-Mail 3209  | By appointment  |
 
 # Objectif et description du cours
 
