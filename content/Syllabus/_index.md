@@ -6,8 +6,7 @@ chapter = true
 +++
 
 # Syllabus 
-Vous trouverez ici les informations générales du cours. Lisez-les avec attention! 
+Vous trouverez ici les informations générales du cours. Lisez-les avec attention!
 
 
 <iframe src="https://giphy.com/embed/TNwRJDrAry7qU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-

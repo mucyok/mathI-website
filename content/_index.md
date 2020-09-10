@@ -1,7 +1,7 @@
 +++
 title = "Bienvenue!"
 chapter = true
-weight = 0
+weight = 5
 +++
 
-# Bienvenue
+# Mathématique I
