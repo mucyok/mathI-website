@@ -12,5 +12,5 @@ chapter = true
 
 :sleeping:
 
-<iframe src="https://giphy.com/embed/TNwRJDrAry7qU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="text-align: center"><iframe src="https://giphy.com/embed/TNwRJDrAry7qU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
