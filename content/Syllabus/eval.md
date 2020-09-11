@@ -1,8 +1,8 @@
 +++
-  title = "cours-p-2"
-  date = 2020-09-04T17:28:49+02:00
-  weight = 15
-  chapter = false
+title = "Evalutaion"
+date = 2020-09-04T17:28:49+02:00
+weight = 15 
+chapter = false
 +++
 
 # Titre
@@ -13,11 +13,11 @@ Voir la première vidéo sur le truc ci-dessous
 
 <!--
 This is a comment
--->
+
 
 
 ~~Strike through this text.~~
-
+-->
 
 > **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
 
