@@ -10,4 +10,4 @@ Vous trouverez ici le matériel de cours pour chaque semaine.
 
 Are you Ready?
 
-<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="text-align: center"><iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>

@@ -12,6 +12,8 @@ chapter = true
 
 :sleeping:
 
+:smile:
+
 hfcjhf
 
 {{ "I :heart: Hugo" | emojify }}

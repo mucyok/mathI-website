@@ -7,6 +7,6 @@
 
 # Exercices
 
-Il est important de régulierment s'exercer pour intéger le cours de façon optimale.
+Il est important de r�gulierment s'exercer pour intéger le cours de fa�on optimale.
 
-<iframe src="https://giphy.com/embed/UvvK8rOSHPxgjo9ryD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="text-align: center"><iframe src="https://giphy.com/embed/UvvK8rOSHPxgjo9ryD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
