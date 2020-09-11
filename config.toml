@@ -39,6 +39,8 @@ home = [ "HTML", "RSS", "JSON"]
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = ""
+  # To add emoji
+  enableEmoji= true
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
   custom_css = ["css/foo.css", "css/bar.css"]
   
