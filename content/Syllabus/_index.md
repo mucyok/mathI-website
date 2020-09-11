@@ -11,6 +11,9 @@ chapter = true
 <div style="text-align: left">Vous trouverez ici les informations générales du cours. Lisez-les avec attention!</div>
 
 :sleeping:
+
+hfcjhf
+
 {{ "I :heart: Hugo" | emojify }}
 
 <div style="text-align: center"><iframe src="https://giphy.com/embed/TNwRJDrAry7qU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
