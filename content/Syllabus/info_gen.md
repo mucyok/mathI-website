@@ -2,9 +2,9 @@
 title = "Informations générales"
 date = 2020-09-04T17:28:49+02:00
 weight = 5
-chapter = true
+chapter = false
 +++
-
+<!--
 # Information générale
 
 ### Lieu et horaire
@@ -14,38 +14,34 @@ chapter = true
 
 ### Course Websites
 
-- **Course Website:** <https://piazza.com/university_of_geneva/spring2020/s230023/home>
-- ** Forum et quizz:**  adresse moodle
+- **Course Website:** <https://mkaremera-math1.netlify.app/>
+- **Forum et quizz:**  [Moodle](https://moodle.unige.ch/course/view.php?id=8193)
 
 # Enseignant et assistants 
+-->
 
-#### Enseignant 
+## Enseignant & Cours
+<!--
 - **Nom:** Mucyo Karemera 
 - **Email:** mucyo.karemera@unige.ch
 - **Office:** Uni-Mail 3208
 - **Office Hours:** Thursdays 13:00 - 14:00
+-->
 
-#### Assistants 
+| Nom | Email | Bureau | Cours | Horaire |Heure de recepetion |
+| ------ | ------ | ------ | ----------- | ----------- | ----------- |
+| Mucyo Karemera   | mucyo.karemera@unige.ch  | Uni-Mail 3208  | Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10:00 - 12:00  |sur rdv  |
 
-| Nom | Email | Bureau | Heure de recepetion |
-| ------ | ------ | ------ | ----------- |
-| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail 3209  | By appointment  |
-| Benjamin Poilane | benjamin.poilane@unige.ch | Uni-Mail 3209  | By appointment  |
-| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni-Mail 3209  | By appointment  |
+## Assistants & Séminaires
 
-# Objectif et description du cours
-
-Outre la maîtrise des techniques qui leur seront utiles pour les matières quantitatives comme les probabilités, la statistique et l'économétrie, l'objet du cours est d'étudier les notions mathématiques de base nécessaires à la compréhension et à l'utilisation des méthodes quantitatives utilisées dans les domaines de l'économie et du management. Une attention particulière sera donné au vocabulaire mathématique.
+| Nom | Email | Bureau | Séminaire | Horaire |Heure de recepetion |
+| ------ | ------ | ------ | ----------- | ----------- | ----------- |
+| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail 3209  |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 10:00 - 12:00  |sur rdv  |
+| Benjamin Poilane | benjamin.poilane@unige.ch | Uni-Mail 3209  |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 10:00 - 12:00  |sur rdv  |
+| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni-Mail 3209  |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Mardi 10:00 - 12:00  |sur rdv  |
 
 
-Plan indicatif des sujets abordés 
-
-1) Analyse I : suites et séries, fonctions continues, fonctions dérivables, série de Taylor, optimisation, intégration.
-
-2) Analyse II : fonctions de deux variables, définition et représentations graphiques, dérivée partielle, optimisation, optimisation sous contrainte.
- 
-3) Algèbre : espaces vectoriels, définitions et opérations élémentaires, indépendance linéaire, matrices, déterminant et rang, systèmes d'équations linéaires.
-
+<!--
 Tentative list of topics that will be discussed in this class are listed below:
 
 - **Reproducible research:** `knitr` and `rmarkdown`;
@@ -56,3 +52,4 @@ Tentative list of topics that will be discussed in this class are listed below:
 - **Web scrapping:** Automatic extraction of data from websites using `rvest` and `quantmod`;
 - **Web applications:** Interactive web apps using Shiny;
 - **High performance computing:** `Rcpp`.
+-->
