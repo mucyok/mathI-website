@@ -1,11 +1,11 @@
 +++
-  title = "cours-p-1"
+  title = "Semaine I"
   date = 2020-09-04T17:28:49+02:00
   weight = 10
   chapter = false
 +++
 
-# Titre
+
 
 ## Sous-titre
 Voir la première vidéo sur le truc ci-dessous
@@ -70,4 +70,4 @@ to insert a youtube video
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/imu9AooxLSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center"> your-text-here </div><iframe width="560" height="315" src="https://www.youtube.com/embed/imu9AooxLSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
