@@ -17,7 +17,8 @@ chapter = true
 hfcjhf
 
 {{ "I :heart: Hugo" | emojify }}
--->
 
 <div style="text-align: center"><iframe src="https://giphy.com/embed/TNwRJDrAry7qU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+-->
 
+<div style="text-align: center"><iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>

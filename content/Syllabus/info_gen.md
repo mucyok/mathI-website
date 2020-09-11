@@ -1,11 +1,12 @@
 +++
-title = "Informations générales"
+title = " Informations générales"
 date = 2020-09-04T17:28:49+02:00
 weight = 5
 chapter = false
 +++
 <!--
 # Information générale
+
 
 ### Lieu et horaire
 
