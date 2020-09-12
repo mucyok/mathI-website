@@ -1,5 +1,5 @@
 +++
-title = " Informations générales"
+title = " Cours et Séminaires"
 date = 2020-09-04T17:28:49+02:00
 weight = 5
 chapter = false
@@ -21,7 +21,7 @@ chapter = false
 # Enseignant et assistants 
 -->
 
-## Enseignant & Cours
+## Cours et enseignant 
 <!--
 - **Nom:** Mucyo Karemera 
 - **Email:** mucyo.karemera@unige.ch
@@ -29,18 +29,49 @@ chapter = false
 - **Office Hours:** Thursdays 13:00 - 14:00
 -->
 
-| Nom | Email | Bureau | Cours | Horaire |Heure de recepetion |
-| ------ | ------ | ------ | ----------- | ----------- | ----------- |
-| Mucyo Karemera   | mucyo.karemera@unige.ch  | Uni-Mail 3208  | Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10:00 - 12:00  |sur rdv  |
+#### Cours hybride
 
-## Assistants & Séminaires
+1) Chaque mardi matin, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://mkaremera-math1.netlify.app/cours/). Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée.
+2) Les séances de cours du mardi matin (en live), seront dédiées aux approfondissements de quelques points et aux questions et réponses. La salle M 380 est accessible durant l'horaire du cours. 
 
-| Nom | Email | Bureau | Séminaire | Horaire |Heure de recepetion |
-| ------ | ------ | ------ | ----------- | ----------- | ----------- |
-| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail 3209  |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 10:00 - 12:00  |sur rdv  |
-| Benjamin Poilane | benjamin.poilane@unige.ch | Uni-Mail 3209  |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 10:00 - 12:00  |sur rdv  |
-| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni-Mail 3209  |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Mardi 10:00 - 12:00  |sur rdv  |
+| Nom | Email |  Cours et live Q&A | Horaire |Heure de recepetion |
+| ------ | ------ |  ----------- | ----------- | ----------- |
+| Mucyo Karemera   | mucyo.karemera@unige.ch  | Uni-Mail, M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10 - 12  |sur rdv  |
 
+{{% notice info %}}
+La cours du 15 septembre sera dédié aux modalités générales du cours.
+{{% /notice %}}
+
+## Séminaires et assistants
+
+Il y a deux types de séminaires: un tutorat et deux séances de correction des séries d'exercices.
+
+
+#### 1) Tutorat
+
+La séance du mardi après-midi se veut être un prolongement de la séance de cours du matin. Il est une opportunité supplémentaire pour poser des questions et aussi un moment où certains sujets pourront être approfondis. Cette séance est d'une durée d'heure en live, accordant du temps pour visionner les vidéos lors de la deuxième heure.
+
+| Nom | Email |  Tutorat et Q&A | Horaire |Heure de recepetion |
+| ------ | ------| ------ |  ----------- | ----------- |
+| Benjamin Poilane | benjamin.poilane@unige.ch |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |sur rdv  |
+
+
+#### 2) Correction des séries d'exercices
+
+Les séances du mercredis et du jeudis sont dédiées à la corrections des 
+
+| Nom | Email | Séminaire | Horaire |Heure de recepetion |
+| ------ | ------ | ------ | ----------- | ----------- |
+| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mercredi 14 - 16  |sur rdv  |
+| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni-Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Jeudi 16 - 18  |sur rdv  |
+
+{{% notice info %}}
+Il n'y a pas de séminaire la première semaine.
+{{% /notice %}}
+
+## Enregistrements
+
+Toutes les séances live seront enregistrées et un lien sera envoyé après chaque séances (cours et séminaires).
 
 <!--
 Tentative list of topics that will be discussed in this class are listed below:

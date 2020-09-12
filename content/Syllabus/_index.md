@@ -6,9 +6,12 @@ chapter = true
 +++
 
 # Syllabus 
+
+<!--
 <div style="text-align: left">Vous trouverez ici les informations générales du cours. Lisez-les avec attention!</div>
+-->
 
-
+Vous trouverez ici les informations générales du cours. Lisez-les avec attention!
 <!-- some emoji to test
 :sleeping:
 

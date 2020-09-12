@@ -5,7 +5,8 @@ weight = 20
 chapter = false
 +++
 
-# Titre
 
-## Sous-titre
-Voir la première vidéo sur le truc ci-dessous
+Vous pouvez directement prendre contact avec l'enseignant ou les assistants par email. 
+
+
+Vous avez aussi la possiblité d'utliser le [forum](https://moodle.unige.ch/mod/forum/view.php?id=310862) sur la platforme Moodle pour poser vos questions ou répondre aux questions d'autres étudiant-e-s. 
