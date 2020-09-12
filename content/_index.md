@@ -6,4 +6,4 @@ weight = 5
 
 # Mathématiques I :scream:
 
-lvxh :smile:  
+<!--lvxh :smile:-->  
