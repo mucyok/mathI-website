@@ -9,23 +9,22 @@ chapter = false
 
 La note finale est composé de 3 tests:
 
-1) Une note sur les séries d'exercices. 
+1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=8193) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. 
 
-{{% notice warning %}}
-Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=8193) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. 
-{{% /notice %}}
-
-2) Un contrôle continu lors du cours du 27.10.2020. Il s'agira d'un qcm. 
+2) **Un contrôle continu** lors du cours du 27.10.2020. Il s'agira d'un qcm. 
 
 
-3) L'examen de fin de semestre. Il s'agira aussi d'un qcm.
+3) **L'examen de fin de semestre**. Il s'agira aussi d'un qcm.
 
 Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué est le barème fédéral soit: note = 5 * (pts obt/pts tot) + 1. Les notes sont arrondies à la demi avec la convention les conventions usuelles (3,75 devient 4,0 et 5,67 devient 5,5).
 
 
 ### Calcul de la note finale
 
-Le poids de chaque test dans la note finale est le suivant: **15% série d'exo , 25% contrôle continu et 60% examen finale.** La note finale est arrondie à la demi selon la même convention.
+Le poids de chaque test dans la note finale est le suivant:
+**15% série d'exo , 25% contrôle continu et 60% examen finale.**
+
+La note finale est arrondie à la demi selon la même convention que pour les tests.
 
 
 <!--

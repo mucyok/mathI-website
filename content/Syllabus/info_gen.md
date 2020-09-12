@@ -53,7 +53,7 @@ La séance du mardi après-midi se veut être un prolongement de la séance de c
 
 | Nom | Email |  Tutorat et Q&A | Horaire |Heure de recepetion |
 | ------ | ------| ------ |  ----------- | ----------- |
-| Benjamin Poilane | benjamin.poilane@unige.ch |  Uni-Mail, M 2150 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |sur rdv  |
+| Benjamin Poilane | benjamin.poilane@unige.ch |  Uni-Mail, U 259 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |sur rdv  |
 
 
 #### 2) Correction des séries d'exercices
