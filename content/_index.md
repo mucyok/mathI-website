@@ -8,14 +8,23 @@ weight = 5
 
 <!-- to make emoji, just check the code here https://www.webfx.com/tools/emoji-cheat-sheet/
 :smile:  :scream:
+-->
 
-{{% notice note %}}
-A notice disclaimer
-{{% /notice %}}
+### Bienvenu sur la page du cours! 
 
-{{% notice warning %}}
-A notice disclaimer
-{{% /notice %}}-->  
+![Me](https://smac-group.com/images/mucyo3.jpg?width=10pc)
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Me](/content/myface.jpg?classes=shadow)
+
+<div style="text-align: left">
+Bienvenu sur la page du cours de Mathématiques I. Je m'appelle Mucyo Karemera et je suis chargé de cours et post-doctorant à la faculté de la Geneva School of Economics and Management de l'Université de Genève.
+</div> 
+
+
+
+Je m'appelle [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/) et je suis chargé de cours et post-doctorant à la faculté de la GSEM de l'Université de Genève. 
+
+<!--
+Je vous souhaite unejoyeuse exploration mathématique!! 
+![Alt Text](https://media.giphy.com/media/AbRKcX53jhSFO/giphy.gif?height=300px&width=300px)
+-->
+

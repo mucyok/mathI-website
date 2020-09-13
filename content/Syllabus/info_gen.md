@@ -36,7 +36,7 @@ chapter = false
 
 | Nom | Email |  Cours et live Q&A | Horaire |Heure de recepetion |
 | ------ | ------ |  ----------- | ----------- | ----------- |
-| Mucyo Karemera   | mucyo.karemera@unige.ch  | Uni-Mail, M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10 - 12  |sur rdv  |
+| Mucyo Karemera   | mucyo.karemera@unige.ch  | Uni Mail, M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10 - 12  |sur rdv  |
 
 {{% notice info %}}
 La cours du 15 septembre sera dédié aux modalités générales du cours.
@@ -53,7 +53,7 @@ La séance du mardi après-midi se veut être un prolongement de la séance de c
 
 | Nom | Email |  Tutorat et Q&A | Horaire |Heure de recepetion |
 | ------ | ------| ------ |  ----------- | ----------- |
-| Benjamin Poilane | benjamin.poilane@unige.ch |  Uni-Mail, U 259 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |sur rdv  |
+| Benjamin Poilane | benjamin.poilane@unige.ch |  Uni Dufour, U 259 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |sur rdv  |
 
 
 #### 2) Correction des séries d'exercices
@@ -62,8 +62,8 @@ Les séances du mercredis et du jeudis sont dédiées à la corrections des
 
 | Nom | Email | Séminaire | Horaire |Heure de recepetion |
 | ------ | ------ | ------ | ----------- | ----------- |
-| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni-Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mercredi 14 - 16  |sur rdv  |
-| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni-Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Jeudi 16 - 18  |sur rdv  |
+| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mercredi 14 - 16  |sur rdv  |
+| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Jeudi 16 - 18  |sur rdv  |
 
 {{% notice info %}}
 Il n'y a pas de séminaire la première semaine.
