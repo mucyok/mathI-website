@@ -12,15 +12,22 @@
 
 Cours disponible le 15 septembre 2020
 
+
+### Cours
+
 1) Vidéo d'introduction 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cw3cKoQDyAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-2) Ensembles et vocabulaire de base part1
+2) Ensembles et vocabulaire de base 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6sCXvzcVZnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-3) Ensembles et vocabulaire de base part2
+### Vidéo mentionnée
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!--
