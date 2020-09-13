@@ -22,8 +22,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6sCXvzcVZnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Vidéos mentionnées 
 
-3) Vidéo mentionnée à la fin de la précédente vidéo
+1)  Les infinis différents de Cantor (facultatif) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elvOZm0d4H0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2) L'infini vaut -1/12 !!! (recommandé)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
