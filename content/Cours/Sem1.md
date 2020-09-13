@@ -23,7 +23,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6sCXvzcVZnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Vidéo mentionnée
+3) Vidéo mentionnée à la fin de la précédente vidéo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
