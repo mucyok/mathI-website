@@ -5,8 +5,42 @@ weight = 20
 chapter = false
 +++
 
+## Modalité 
+La modalité suivante est à appliquer pour communiquer vos questions en-dehors des heures de cours, du tutorat et des heures de réception.
 
+1) Pour toute question lié au cours ou aux séries d'exercices, veuillez utiliser le [forum](https://moodle.unige.ch/mod/forum/view.php?id=310862) sur la platforme Moodle. Ce forum étant ouvert, nous vous encourageons aussi à répondre aux questions de vos camarades.
+
+2) Dans le cas personne n'aurait répondu à votre question dans le forum, veuillez vous addressez aux assistants par email.
+
+3) Si vous n'avez toujours pas de réponse, veuillez vous addressez à l'enseignant par email.
+
+{{% notice note %}}
+Si votre question est d'ordre personnel, n'utilisez pas le forum, mais contacter les assistants ou l'enseignant par email.
+{{% /notice %}}
+
+{{% notice warning %}}
+Vous ne receverez pas de réponse si la modalité ci-dessus n'est pas respectée.
+{{% /notice %}}
+
+## Coordonnées
+
+Pour les heures de récpetion, connectez-vous simplement via le lien zoom pour posez votre question.
+
+| Enseignant | Email | Zoom |  Heure de récepetion |
+| ------ | ------ |  ----------- |----------- |
+| Mucyo Karemera   | mucyo.karemera@unige.ch  | lien  | Mercredi 9.30 - 10.30  |
+
+
+| Assistants  | Email | Zoom |  Heure de récepetion |
+| ------ | ------ |  ----------- |----------- |
+| Guillaume Blanc   | guillaume.blanc@unige.ch  | lien  | ??  |
+| Benjamin Poilane | benjamin.poilane@unige.ch |  lien  | ??  |
+| Hervégil Voegeli    | hervegil.voegeli@unige.ch | lien  | ??  |
+
+
+<!--
 Vous pouvez directement prendre contact avec l'enseignant ou les assistants par email. 
 
 
 Vous avez aussi la possiblité d'utliser le [forum](https://moodle.unige.ch/mod/forum/view.php?id=310862) sur la platforme Moodle pour poser vos questions ou répondre aux questions d'autres étudiant-e-s. 
+-->

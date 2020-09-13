@@ -4,20 +4,23 @@ weight = 20
 chapter = true
 +++
 
-{{<mermaid>}}
-gantt
-        dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
-        section série à faire
-        Completed task            :done,    des1, 2020-09-01, 2020-09-08
-        Série 1               :active,  des2, 2020-09-01, 3d
-        Future task               :         des3, after des2, 5d
-        Future task2               :         des4, after des3, 5d
-        section Critical tasks
-        Completed task in the critical line :crit, done, 2020-09-01,24h
-        Implement parser and jison          :crit, done, after des1, 2d
-        Create tests for parser             :crit, active, 3d
-        Future task in critical line        :crit, 5d
-        Create tests for renderer           :2d
-        Add to mermaid                      :1d
-{{< /mermaid >}}
+
+------
+### Liens utiles
+
+<div style="text-align: left">
+
+1) [Khan Academy](https://fr.khanacademy.org/math): 
+
+2) [3Blue1Brown](https://www.youtube.com/c/3blue1brown/featured): Vidéos expliquant des sujets parfois (très) complexes avec de superbes animations permettant d'avoir l'intution de la véricatité de résltats profonds
+
+3) [Numberphile](https://www.youtube.com/user/numberphile/featured): "Vidéos sur les nombres, tout simplement!" Si vous avez envie de vous laisser surprendre par les nombreux mystères qu'ils offrent, c'est votre chaîne
+</div>
+
+------
+### Bibliographie
+
+1) Swokowski, Earl William. Analyse. De Boeck Supérieur, 1993.
+2) Larson, Ron. Calculus: an applied approach. Cengage Learning, 2012.
+3) Haenni-Amo, A. V., C. Khaw, and D. Royer. "Mathématiques de base." Sciences économiques et de gestion, Economica, 2004
+4) Sydsaeter, Knut, and Peter J. Hammond. Mathématiques pour l'économie. Pearson, 2014.
