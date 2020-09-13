@@ -28,6 +28,15 @@ La note finale est arrondie à la demi selon la même convention que pour les te
 
 
 <!--
+to insert a gif, must save the gif into a folder in which the gif will appear.
+-->
+![Dance](/Syllabus/dance.gif?classes=shadow)
+
+![Minion](https://octodex.github.com/images/minion.png)
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?width=500px)
+
+<!--
 # Titre
 ## Sous-titre
 Voir la première vidéo sur le truc ci-dessous
@@ -46,7 +55,7 @@ To make a link with a name
 [google](https://google.com)
 <!--
 to insert an image
-![Minion](https://octodex.github.com/images/minion.png)
+
 -->
 <!--
 <iframe width="560" height="315"
@@ -56,12 +65,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 -->
 
-<!--
-to insert a gif, must save the gice into a folder in which the gif will appear.
--->
-![Dance](/basics/dance.gif?classes=shadow)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?width=500px)
 <!--
 to insert a youtube video
 -->
