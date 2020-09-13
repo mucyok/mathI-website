@@ -33,11 +33,12 @@ chapter = false
 Le cours est en format hybride:
 
 1) Chaque mardi matin, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://mkaremera-math1.netlify.app/cours/). Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles.
+
 2) Les séances de cours du mardi matin (en live), seront dédiées aux approfondissements de quelques points et aux questions et réponses. La salle M 380 est accessible durant l'horaire du cours. 
 
 | Enseignant |   Cours et live Q&A | Horaire |
 | ------ |  ----------- | ----------- |
-| Mucyo Karemera   | Uni Mail, M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10 - 12  |
+| Mucyo Karemera   | Uni Mail, M R380 ([Zoom](https://unige.zoom.us/j/6972030535)) |Mardi 10.15 - 12.00  |
 
 {{% notice info %}}
 La cours du 15 septembre sera dédié aux modalités générales du cours.
@@ -54,7 +55,7 @@ La séance du mardi après-midi se veut être un prolongement de la séance de c
 
 | Assistant |   Tutorat et Q&A | Horaire |
 | ------ | ------| ------ |  
-| Benjamin Poilane | Uni Dufour, U 259 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |
+| Benjamin Poilane | Uni Dufour, U 259 ([Zoom](https://unige.zoom.us/j/6972030535)) | Mardi 14.15 - 15.00  |
 
 
 #### 2) Correction des séries d'exercices
@@ -63,8 +64,8 @@ Les séances du mercredis et du jeudis sont dédiées à la corrections des sér
 
 | Assistants | Séminaires | Horaire | Etudiant-e-s |
 | ------ | ------ | ------ | ----------- | 
-| Guillaume Blanc   | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mercredi 14 - 16  | Nom de famille de A jusqu'à K
-| Hervégil Voegeli    | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Jeudi 16 - 18  | Nom de famille de L jusqu'à Z et étudiant-e-s du BARI
+| Guillaume Blanc   | Uni Mail M R380 ([Zoom](https://unige.zoom.us/j/6972030535)) | Mercredi 14.15 - 16.00  | Nom de famille de A à K
+| Hervégil Voegeli    | Uni Mail M R380 ([Zoom](https://unige.zoom.us/j/6972030535))  | Jeudi 16.15 - 18.00  | Nom de famille de L à Z et étudiant-e-s du BARI
 
 {{% notice info %}}
 Il n'y a pas de séminaire la première semaine.
