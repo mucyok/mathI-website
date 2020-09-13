@@ -35,9 +35,9 @@ Le cours est en format hybride:
 1) Chaque mardi matin, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://mkaremera-math1.netlify.app/cours/). Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles.
 2) Les séances de cours du mardi matin (en live), seront dédiées aux approfondissements de quelques points et aux questions et réponses. La salle M 380 est accessible durant l'horaire du cours. 
 
-| Enseignant | Email |  Cours et live Q&A | Horaire |Heure de recepetion |
-| ------ | ------ |  ----------- | ----------- | ----------- |
-| Mucyo Karemera   | mucyo.karemera@unige.ch  | Uni Mail, M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10 - 12  |sur rdv  |
+| Enseignant |   Cours et live Q&A | Horaire |
+| ------ |  ----------- | ----------- |
+| Mucyo Karemera   | Uni Mail, M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) |Mardi 10 - 12  |
 
 {{% notice info %}}
 La cours du 15 septembre sera dédié aux modalités générales du cours.
@@ -52,19 +52,19 @@ Il y a deux types de séminaires: un tutorat et deux séances de correction des 
 
 La séance du mardi après-midi se veut être un prolongement de la séance de cours du matin. Il est une opportunité supplémentaire pour poser des questions et aussi un moment où certains sujets pourront être approfondis. Cette séance est d'une durée d'heure en live, accordant du temps pour visionner les vidéos lors de la deuxième heure.
 
-| Assistant | Email |  Tutorat et Q&A | Horaire |Heure de recepetion |
-| ------ | ------| ------ |  ----------- | ----------- |
-| Benjamin Poilane | benjamin.poilane@unige.ch |  Uni Dufour, U 259 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |sur rdv  |
+| Assistant |   Tutorat et Q&A | Horaire |
+| ------ | ------| ------ |  
+| Benjamin Poilane | Uni Dufour, U 259 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mardi 14 - 15  |
 
 
 #### 2) Correction des séries d'exercices
 
-Les séances du mercredis et du jeudis sont dédiées à la corrections des séries.
+Les séances du mercredis et du jeudis sont dédiées à la corrections des séries. 
 
-| Assistants | Email | Séminaire | Horaire |Heure de recepetion |
-| ------ | ------ | ------ | ----------- | ----------- |
-| Guillaume Blanc   | guillaume.blanc@unige.ch  | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mercredi 14 - 16  |sur rdv  |
-| Hervégil Voegeli    | hervegil.voegeli@unige.ch | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Jeudi 16 - 18  |sur rdv  |
+| Assistants | Séminaires | Horaire | Etudiant-e-s |
+| ------ | ------ | ------ | ----------- | 
+| Guillaume Blanc   | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193)) | Mercredi 14 - 16  | Nom de famille de A jusqu'à K
+| Hervégil Voegeli    | Uni Mail M R380 ([Zoom](https://moodle.unige.ch/course/view.php?id=8193))  | Jeudi 16 - 18  | Nom de famille de L jusqu'à Z et étudiant-e-s du BARI
 
 {{% notice info %}}
 Il n'y a pas de séminaire la première semaine.
@@ -72,7 +72,7 @@ Il n'y a pas de séminaire la première semaine.
 
 ## Enregistrements
 
-Toutes les séances live seront enregistrées et un lien sera envoyé après chaque séances (cours et séminaires).
+Toutes les séances live seront enregistrées et un lien sera envoyé après chaque séance (cours et séminaires).
 
 <!--
 Tentative list of topics that will be discussed in this class are listed below:

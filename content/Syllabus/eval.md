@@ -21,10 +21,11 @@ Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué e
 
 ### Calcul de la note finale
 
-Le poids de chaque test dans la note finale est le suivant:
-**15% série d'exo , 25% contrôle continu et 60% examen finale.**
+Le poids de chaque test  est le suivant: 15% série d'exo , 25% contrôle continu et 60% examen final.
 
-La note finale est arrondie à la demi selon la même convention que pour les tests.
+**La note finale est la note maxiamle entre la note de l'examen final et la moyenne pondérée de tous les tests (série, c.c., exa final).** 
+
+Elle est arrondie à la demi selon la même convention que pour les tests.
 
 ### Planning 
 
