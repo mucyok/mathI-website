@@ -49,9 +49,6 @@ gantt
         Série 9            :    des11, after des10, 7d
         Série 10           :    des12, after des11, 7d
         Série 11           :    des13, after des12, 7d
-        section Contrôle continue 
-        Contrôle continue (27 oct)          :crit, after des6, 1d
-        Examen final (?? jan)               :crit, 2020-12-31, 1h
         section Deadline séries
         Quiz 1 (22 sept)            :crit, active, after des1, 1d
         Quiz 2 (29 sept)            :crit, active, after des2, 1d
@@ -64,6 +61,9 @@ gantt
         Quiz 9 (01 déc)             :crit, active, after des11, 1d
         Quiz 10 (08 déc)             :crit, active, after des12, 1d
         Quiz 11 (15 déc)             :crit, active, after des13, 1d
+        section Contrôle continue 
+        Contrôle continue (27 oct)          :crit, after des6, 1d
+        Examen final (?? jan)               :crit, 2020-12-31, 1h
 {{< /mermaid >}}
 
 
