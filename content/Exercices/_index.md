@@ -5,7 +5,7 @@
   chapter = true
 +++
 
-# Exercices
+# Exercices :page_facing_up:
 
 Il est important de régulierment s'exercer pour intéger le cours de façon optimale. 
 
