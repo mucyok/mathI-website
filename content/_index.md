@@ -1,5 +1,5 @@
 +++
-title = "Mathématiques 1 - Mucyo Karemera "
+title = "Mathématiques 1"
 chapter = true
 weight = 5
 +++

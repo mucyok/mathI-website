@@ -5,7 +5,9 @@ weight = 15
 chapter = false
 +++
 
-### Les tests
+-------
+
+## Les tests
 
 La note finale est composé de 3 tests:
 
@@ -19,15 +21,15 @@ La note finale est composé de 3 tests:
 Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué est le barème fédéral soit: note = 5 * (pts obt/pts tot) + 1. Les notes sont arrondies à la demi avec la convention les conventions usuelles (3,75 devient 4,0 et 5,67 devient 5,5).
 
 
-### Calcul de la note finale
+## Calcul de la note finale
 
 Le poids de chaque test  est le suivant: 15% série d'exo , 25% contrôle continu et 60% examen final.
 
-**La note finale est la note maxiamle entre la note de l'examen final et la moyenne pondérée de tous les tests (série, c.c., exa final).** 
+**La note finale est la note maximale entre la note de l'examen final et la moyenne pondérée de tous les tests (série, c.c., exa final).** 
 
 Elle est arrondie à la demi selon la même convention que pour les tests.
 
-### Planning 
+## Planning 
 
 Le planning ci-dessous vous indique, entre autre, les deadline pour poster vos quiz sur [Moodle](https://moodle.unige.ch/course/view.php?id=8193). Cela doit être fait pour **chaque mardi avant minuit**. Il n'y aura **pas de possiblité de le faire après le délai**.
 
@@ -61,8 +63,8 @@ gantt
         Quiz 9 (01 déc)             :crit, active, after des11, 1d
         Quiz 10 (08 déc)             :crit, active, after des12, 1d
         Quiz 11 (15 déc)             :crit, active, after des13, 1d
-        section Contrôle continue 
-        Contrôle continue (27 oct)          :crit, after des6, 1d
+        section Contrôle continu 
+        Contrôle continu (27 oct)          :crit, after des6, 1d
         Examen final (?? jan)               :crit, 2020-12-31, 1h
 {{< /mermaid >}}
 

@@ -5,7 +5,9 @@ weight = 20
 chapter = false
 +++
 
-## Modalité 
+-------
+
+### Modalité 
 La modalité suivante est à appliquer pour communiquer vos questions en-dehors des heures de cours, du tutorat et des heures de réception.
 
 1) Pour toute question lié au cours ou aux séries d'exercices, veuillez utiliser le [forum](https://moodle.unige.ch/mod/forum/view.php?id=310862) sur la platforme Moodle. Ce forum étant ouvert, nous vous encourageons aussi à répondre aux questions de vos camarades.
@@ -22,20 +24,19 @@ Si votre question est d'ordre personnel, n'utilisez pas le forum, mais contacter
 Vous ne receverez pas de réponse si la modalité ci-dessus n'est pas respectée.
 {{% /notice %}}
 
-## Coordonnées
+### Coordonnées
 
 Pour les heures de récpetion, connectez-vous simplement via le lien zoom pour posez votre question.
 
 | Enseignant | Email | Zoom |  Heure de récepetion |
 | ------ | ------ |  ----------- |----------- |
-| Mucyo Karemera   | mucyo.karemera@unige.ch  | lien  | Mercredi 9.30 - 10.30  |
-
+| Mucyo Karemera   | mucyo.karemera@unige.ch  | [lien](https://unige.zoom.us/j/95216854956)  | Mercredi 9.30 - 10.30  |
 
 | Assistants  | Email | Zoom |  Heure de récepetion |
 | ------ | ------ |  ----------- |----------- |
-| Guillaume Blanc   | guillaume.blanc@unige.ch  | lien  | ??  |
-| Benjamin Poilane | benjamin.poilane@unige.ch |  lien  | ??  |
-| Hervégil Voegeli    | hervegil.voegeli@unige.ch | lien  | ??  |
+| Guillaume Blanc   | guillaume.blanc@unige.ch  | [lien](unige.zoom.us/my/willwhite)  | Mercredi 17.00 - 18.00  |
+| Benjamin Poilane | benjamin.poilane@unige.ch |  lien  | rdv  |
+| Hervégil Voegeli    | hervegil.voegeli@unige.ch | [lien](https://unige.zoom.us/j/97725579104 )  | Lundi 10.00 - 11.00  |
 
 
 <!--

@@ -6,8 +6,8 @@ chapter = false
 +++
 
 
+-------
 
-## Objectif et description du cours
 
 Outre la maîtrise des techniques qui leur seront utiles pour les matières quantitatives comme les probabilités, la statistique et l'économétrie, l'objet du cours est d'étudier les notions mathématiques de base nécessaires à la compréhension et à l'utilisation efficace des méthodes quantitatives utilisées dans les domaines de l'économie et du management.  Une attention particulière sera donnée au vocabulaire mathématique.
 
