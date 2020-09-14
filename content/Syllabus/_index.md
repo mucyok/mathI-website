@@ -5,7 +5,7 @@ weight = 5
 chapter = true
 +++
 
-# Syllabus 
+# Syllabus :warning:
 
 <!--
 <div style="text-align: left">Vous trouverez ici les informations générales du cours. Lisez-les avec attention!</div>

@@ -5,7 +5,8 @@
   chapter = true
 +++
 
-# Cours
+# Cours :notebook:
+
 Vous trouverez ici le matériel de cours pour chaque semaine. 
 
 Are you Ready?
