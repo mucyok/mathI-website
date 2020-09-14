@@ -6,11 +6,11 @@
 +++
 
 
-<!--
+
 ## Cours disponible le 15 septembre 2020
--->
 
 
+<!--
 ### Cours 1
 
 1) Vidéo d'introduction 
@@ -31,7 +31,7 @@
 2) L'infini vaut -1/12 !!! (recommandé)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+-->
 
 <!--
 <iframe width="560" height="315"
