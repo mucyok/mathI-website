@@ -6,8 +6,7 @@
 +++
 
 
-
-## Cours disponible le 15 septembre 2020
+Cours disponible le 15 septembre 2020
 
 
 <!--
