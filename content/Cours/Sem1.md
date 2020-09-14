@@ -6,9 +6,6 @@
 +++
 
 
-Cours disponible le 15 septembre 2020
-
-
 ### Cours 1
 
 1) Vidéo d'introduction 
