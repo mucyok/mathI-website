@@ -8,8 +8,6 @@
 
 Cours disponible le 15 septembre 2020
 
-<!--
-{{% attachments /%}}
 
 ### Cours 1
 
@@ -28,10 +26,11 @@ Cours disponible le 15 septembre 2020
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elvOZm0d4H0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2) L'infini vaut -1/12 !!! (recommandé)
+2) L'infini vaut ???!!! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+
+{{% attachments /%}}
 
 <!--
 <iframe width="560" height="315"
