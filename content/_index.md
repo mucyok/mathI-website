@@ -21,7 +21,7 @@ Bienvenu sur la page du cours de Mathématiques I. Je m'appelle Mucyo Karemera e
 </div> -->
 
 
-Je m'appelle [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/) et je suis chargé de cours et post-doctorant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) de l'Université de Genève. 
+Je m'appelle [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/), je suis chargé de cours et post-doctorant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) de l'Université de Genève. 
 
 <!--
 Je vous souhaite une joyeuse "plongée" dans les mathématiques !! 

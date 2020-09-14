@@ -9,7 +9,7 @@ chapter = false
 
 ## Les tests
 
-La note finale est composé de 3 tests:
+La note finale est composée de 3 tests:
 
 1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=8193) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. 
 
@@ -31,7 +31,7 @@ Elle est arrondie à la demi selon la même convention que pour les tests.
 
 ## Planning 
 
-Le planning ci-dessous vous indique, entre autre, les deadline pour poster vos quiz sur [Moodle](https://moodle.unige.ch/course/view.php?id=8193). Cela doit être fait pour **chaque mardi avant minuit**. Il n'y aura **pas de possiblité de le faire après le délai**.
+Le planning ci-dessous vous indique, entre autres, les deadlines pour poster vos quiz sur [Moodle](https://moodle.unige.ch/course/view.php?id=8193). Cela doit être fait pour **chaque mardi avant minuit**. Il n'y aura **pas de possibilité de le faire après le délai**.
 
 {{<mermaid>}}
 gantt

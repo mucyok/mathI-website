@@ -62,7 +62,7 @@ La séance du mardi après-midi se veut être un prolongement de la séance de c
 
 #### 2) Correction des séries d'exercices
 
-Les séances du mercredis et du jeudis sont dédiées à la corrections des séries. 
+Les séances du mercredi et du jeudi sont dédiées à la correction des séries. 
 
 | Assistants | Séminaires | Horaire | Etudiant-e-s |
 | ------ | ------ | ------ | ----------- | 
