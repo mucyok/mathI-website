@@ -10,7 +10,7 @@ weight = 5
 :smile:  :scream:
 -->
 
-### Bienvenu sur la page du cours! 
+### Bienvenue sur la page du cours! 
 
 ![Me](https://smac-group.com/images/mucyo3.jpg?width=10pc)
 
