@@ -56,7 +56,7 @@ gantt
         Quiz 2 (29 sept)            :crit, active, after des2, 1d
         Quiz 3 (06 oct)             :crit, active, after des3, 1d
         Quiz 4 (13 oct)             :crit, active, after des4, 1d
-        Quiz 5 (27 oct)             :crit, active, after des5, 1d
+        Quiz 5 (20 oct)             :crit, active, after des5, 1d
         Quiz 6 (10 nov)             :crit, active, after des8, 1d
         Quiz 7 (17 nov)             :crit, active, after des9, 1d
         Quiz 8 (24 nov)             :crit, active, after des10, 1d
@@ -65,7 +65,7 @@ gantt
         Quiz 11 (15 déc)             :crit, active, after des13, 1d
         section Contrôle continu 
         Contrôle continu (27 oct)          :crit, after des6, 1d
-        Examen final (?? jan) :scream:              :crit, 2020-12-31, 1h
+        Examen final (?? jan)              :crit, 2020-12-31, 1h
 {{< /mermaid >}}
 
 

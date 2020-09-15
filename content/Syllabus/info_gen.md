@@ -40,7 +40,7 @@ Le cours est en format hybride:
 
 | Enseignant |   Cours et live Q&A | Horaire |
 | ------ |  ----------- | ----------- |
-| Mucyo Karemera   | Uni Mail, M R380 ([Zoom](https://unige.zoom.us/j/6972030535)) |Mardi 10.15 - 12.00  |
+| Mucyo Karemera   | Uni Mail, M R380 ([Zoom]( https://unige.zoom.us/j/95192904685)) |Mardi 10.15 - 12.00  |
 
 {{% notice info %}}
 La cours du 15 septembre sera dédié aux modalités générales du cours.
@@ -57,7 +57,7 @@ La séance du mardi après-midi se veut être un prolongement de la séance de c
 
 | Assistant |   Tutorat et Q&A | Horaire |
 | ------ | ------| ------ |  
-| Benjamin Poilane | Uni Dufour, U 259 ([Zoom](https://unige.zoom.us/j/6972030535)) | Mardi 14.15 - 15.00  |
+| Benjamin Poilane | Uni Dufour, U 259 ([Zoom](https://unige.zoom.us/j/93326172170)) | Mardi 14.15 - 15.00  |
 
 
 #### 2) Correction des séries d'exercices
