@@ -7,9 +7,7 @@
 
 # Cours :blue_book:
 
-Vous trouverez ici le matériel de cours pour chaque semaine. 
-
-Are you Ready?
+Vous trouverez ici le matériel de cours pour chaque semaine. Are you Ready?
 
 ![Alt Text](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?width=500px)
 
