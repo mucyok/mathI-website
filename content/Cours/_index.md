@@ -5,7 +5,7 @@
   chapter = true
 +++
 
-# Cours :blue_book:
+# Cours :orange_book:
 
 Vous trouverez ici le matériel de cours pour chaque semaine. Are you Ready?
 
