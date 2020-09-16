@@ -27,7 +27,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-I6XTVZXww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{{% attachments /%}}
+{{% attachments style="grey" title="Pièces jointes" /%}}
 
 <!--
 <iframe width="560" height="315"
