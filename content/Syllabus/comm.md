@@ -35,7 +35,7 @@ Pour les heures de réception, connectez-vous simplement via le lien zoom pour p
 | Assistants  | Email | Zoom |  Heure de récepetion |
 | ------ | ------ |  ----------- |----------- |
 | Guillaume Blanc   | guillaume.blanc@unige.ch  | [lien](unige.zoom.us/my/willwhite)  | Mercredi 17.00 - 18.00  |
-| Benjamin Poilane | benjamin.poilane@unige.ch |  [lien](https://unige.zoom.us/j/93302057240)  | rdv  |
+| Benjamin Poilane | benjamin.poilane@unige.ch |  [lien](https://unige.zoom.us/j/93302057240)  | Lundi 13.00 - 14.00  |
 | Hervégil Voegeli    | hervegil.voegeli@unige.ch | [lien](https://unige.zoom.us/j/97725579104 )  | Lundi 10.00 - 11.00  |
 
 
