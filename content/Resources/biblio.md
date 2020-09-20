@@ -16,4 +16,4 @@ chapter = false
 
 
 
-4) Sydsaeter, Knut, and Peter J. Hammond. Mathématiques pour l'économie. Pearson, 2014.
+4) Sydsaeter, Knut, and Peter J. Hammond. Mathématiques pour l'économie, 5e édition. Pearson, 2020.
