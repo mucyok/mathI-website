@@ -66,7 +66,7 @@ Les séances du mercredi et du jeudi sont dédiées à la correction des séries
 
 | Assistants | Séminaires | Horaire | Etudiant-e-s |
 | ------ | ------ | ------ | ----------- | 
-| Guillaume Blanc   | Uni Mail M R380 ([Zoom](unige.zoom.us/my/willwhite)) | Mercredi 14.15 - 16.00  | Nom de famille de A à K
+| Guillaume Blanc   | Uni Mail M R380 ([Zoom](https://unige.zoom.us/my/willwhite)) | Mercredi 14.15 - 16.00  | Nom de famille de A à K
 | Hervégil Voegeli    | Uni Mail M R380 ([Zoom](https://unige.zoom.us/s/92184203611))  | Jeudi 16.15 - 18.00  | Nom de famille de L à Z et étudiant-e-s du BARI
 
 {{% notice info %}}
