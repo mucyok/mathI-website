@@ -4,9 +4,10 @@ weight = 15
 chapter =false
 +++
 
+<!--
 # :construction:
 Vidéos disponible le 22 septembre 2020
-
+-->
 
 ### Cours 2 
 
@@ -28,7 +29,7 @@ Vidéos disponible le 22 septembre 2020
 
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
-### Vidéo supplémantaire
+### Vidéo supplémentaire
 
 Une preuve géométrique au problème de Bâle mentionné dans la vidéo sur les séries.
 
