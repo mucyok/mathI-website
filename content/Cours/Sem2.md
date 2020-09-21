@@ -4,7 +4,12 @@ weight = 15
 chapter =false
 +++
 
-### Cours 2
+# :construction:
+Vidéos disponible le 22 septembre 2020
+<!--
+### Cours 2  
+
+
 
 1) Suites (partie I): définition et définition de la limite.
 
@@ -23,3 +28,4 @@ chapter =false
 
 4) Séries
 
+-->
