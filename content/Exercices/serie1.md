@@ -8,5 +8,3 @@ Série 1  disponible le 15 septembre 2020
 -->
 
 {{% attachments style="grey" title="Pièces jointes" /%}}
-
-Corrigé disponible le 23 septembre 2020
