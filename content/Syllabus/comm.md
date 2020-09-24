@@ -28,7 +28,7 @@ Vous ne recevrez pas de réponse si la modalité ci-dessus n'est pas respectée.
 
 Pour les heures de réception, connectez-vous simplement via le lien zoom pour poser votre question.
 
-| Enseignant | Email | Zoom |  Heure de récepetion |
+| Enseignant | Email | Zoom |  Heure de réception |
 | ------ | ------ |  ----------- |----------- |
 | Mucyo Karemera   | mucyo.karemera@unige.ch  | [lien](https://unige.zoom.us/j/95216854956)  | Mercredi 9.30 - 10.30  |
 
