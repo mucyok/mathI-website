@@ -11,12 +11,12 @@ chapter = false
 
 La note finale est composée de 3 tests:
 
-1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=8193) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. 
+1) **Une note sur les séries d'exercices**. Pour que **cette note compte**, il faut **au moins avoir rendu 8 séries**, i.e. avoir posté ses réponses sur les [quiz](https://moodle.unige.ch/course/view.php?id=8193) 8 fois.  La première série ne contribue pas à la note finale, mais sert à vous familiariser avec la manière de vous évaluer. **Si plus de 8 quiz ont été rendus**, se sont les 8 meilleurs qui sont pris en compte dans la note.
 
 2) **Un contrôle continu** lors du cours du 27.10.2020. Il s'agira d'un qcm. 
 
 
-3) **L'examen de fin de semestre**. Il s'agira aussi d'un qcm.
+3) **L'examen de fin de semestre**. Il s'agira aussi d'un qcm. 
 
 Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué est le barème fédéral soit: note = 5 * (pts obt/pts tot) + 1. Les notes sont arrondies à la demi avec la convention les conventions usuelles (3,75 devient 4,0 et 5,67 devient 5,5).
 
@@ -25,9 +25,13 @@ Pour chaque test (quiz, contrôle continu et exa finale), le barème appliqué e
 
 Le poids de chaque test  est le suivant: 15% série d'exo , 25% contrôle continu et 60% examen final.
 
-**La note finale est la note maximale entre la note de l'examen final et la moyenne pondérée de tous les tests (série, c.c., exa final).** 
-
+**La note finale est la note maximale entre** la note de l'examen final **et** la moyenne pondérée de tous les tests (série, c.c., exa final).
 Elle est arrondie à la demi selon la même convention que pour les tests.
+
+{{% notice warning %}}
+La note des séries et celle du contrôle continue sont donc bonus. Dans le cas où l'une de ces notes ne compte pas (si vous ne rendez pas 8 quiz ou si vous êtes absent le jour du contôle continu), le poids de celle-ci est transferé à l'examen final. 
+Par exemple, si vous êtes absent au contrôle continu mais que vous avez rendu plus de 8 quiz alors la note de série compte pour 15% et l'examen final pour 85% (25%+60%).
+{{% /notice %}}
 
 ## Planning 
 

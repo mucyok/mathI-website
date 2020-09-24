@@ -31,16 +31,15 @@ chapter = false
 - **Office Hours:** Thursdays 13:00 - 14:00
 -->
 
-
 Le cours est en format hybride:
 
-1) Chaque mardi matin, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://mkaremera-math1.netlify.app/cours/). Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles.
+1) Chaque mardi matin, une série de vidéos sera postées sur le site web du cours dans la section [Cours](https://mkaremera-math1.netlify.app/cours/). Ces vidéos sont à visionner durant la semaine et vous permettront de résoudre la série d'exercices associée. Les slides des vidéos seront aussi accessibles. Ceci constitute le cours à proprement parler.   
 
-2) Les séances de cours du mardi matin (en live), seront dédiées aux approfondissements de quelques points et aux questions et réponses. La salle M 380 est accessible durant l'horaire du cours. 
+2) Les séances de "cours" du mardi matin (en live), seront dédiées aux approfondissements de quelques points (pas essentiels pour suivre le cours) mais PRINCIPALEMENT aux questions et réponses. Veuillez poser vos questions sur la page Speakup [ici](https://web.speakup.info/ng/room/5f631ca6a63f09218c65a712) et voter pour celles qui vous intéressent. Cette séance est d'une durée d'heure en live, accordant du temps pour visionner les vidéos lors de la deuxième heure. La salle M 380 est accessible de 10.15 à 12.00.
 
-| Enseignant |   Cours et live Q&A | Horaire |
+| Enseignant | live Q&A | Horaire |
 | ------ |  ----------- | ----------- |
-| Mucyo Karemera   | Uni Mail, M R380 ([Zoom]( https://unige.zoom.us/j/95192904685)) |Mardi 10.15 - 12.00  |
+| Mucyo Karemera   | Uni Mail, M R380 ([Zoom]( https://unige.zoom.us/j/95192904685)) |Mardi 10.15 - 11.00  |
 
 {{% notice info %}}
 La cours du 15 septembre sera dédié aux modalités générales du cours.
@@ -53,7 +52,7 @@ Il y a deux types de séminaires: un tutorat et deux séances de correction des 
 
 #### 1) Tutorat
 
-La séance du mardi après-midi se veut être un prolongement de la séance de cours du matin. Il est une opportunité supplémentaire pour poser des questions et aussi un moment où certains sujets pourront être approfondis. Cette séance est d'une durée d'heure en live, accordant du temps pour visionner les vidéos lors de la deuxième heure.
+La séance du mardi après-midi se veut être un prolongement de la séance de cours du matin. Il est une opportunité supplémentaire pour poser des questions et aussi un moment où certains points pourront être approfondis. Cette séance est d'une durée d'heure en live, accordant du temps pour visionner les vidéos lors de la deuxième heure. La salle U 259 est accessible de 14.15 à 16.00.
 
 | Assistant |   Tutorat et Q&A | Horaire |
 | ------ | ------| ------ |  
@@ -62,7 +61,7 @@ La séance du mardi après-midi se veut être un prolongement de la séance de c
 
 #### 2) Correction des séries d'exercices
 
-Les séances du mercredi et du jeudi sont dédiées à la correction des séries. 
+Les séances du mercredi et du jeudi sont dédiées à la correction des séries. La salle M 380 est accessible de 14.15 à 16.00 le mercredi et de 16.15 à 18.00 le jeudi. 
 
 | Assistants | Séminaires | Horaire | Etudiant-e-s |
 | ------ | ------ | ------ | ----------- | 
@@ -75,7 +74,7 @@ Il n'y a pas de séminaire la première semaine.
 
 ## Enregistrements
 
-Toutes les séances live seront enregistrées et un lien sera envoyé après chaque séance (cours et séminaires).
+Toutes les séances live seront enregistrées. Un lien sera envoyé après chaque séance, cours et séminaires, via une annonce Moodle. Si vous ne receverez pas d'email, les annonces sont [ici](https://moodle.unige.ch/mod/forum/view.php?id=306537).
 
 <!--
 Tentative list of topics that will be discussed in this class are listed below:
