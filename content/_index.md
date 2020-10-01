@@ -14,7 +14,7 @@ weight = 5
 
 Ce  cours a été préparé par [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/) et  [Stéphane  Guerrier](https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier). 
 
-![image](https://mkaremera-math1.netlify.app/myface.jpg)
+![image](https://mkaremera-math1.netlify.app/2br.jpg?width=25pc)
 
 Mucyo Karemera est chargé de cours et post-doctorant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) de l'Université de Genève. 
 Stéphane  Guerrier est professeur assistant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) et à la faculté des [Sciences](https://www.unige.ch/sciences/fr/) de l'Université de Genève. 
