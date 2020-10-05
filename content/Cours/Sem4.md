@@ -15,10 +15,13 @@ Vidéos disponible le 29 septembre 2020
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_fARb_MePA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2) Dérivabilité
+2) Dérivabilité (partie I): définition et propriétés élémentaires
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a2nPwq1ZB6Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+3) Dérivabilité (partie II): règle de l'Hospital
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a2nPwq1ZB6Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
