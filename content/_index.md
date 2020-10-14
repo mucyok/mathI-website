@@ -20,7 +20,7 @@ Mucyo Karemera est chargé de cours et post-doctorant à la faculté de la [GSEM
 Stéphane  Guerrier est professeur assistant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) et à la faculté des [Sciences](https://www.unige.ch/sciences/fr/) de l'Université de Genève. 
 
 
-Nous remercions Guillaume Blanc, Benjamin Poilane  et Hervégil Voegeli pour la relecture et leurs précieux commentaires. 
+Merci au Dr. Samuel Orso pour son aide dans l'élaboration de ce site. Nous remercions également Guillaume Blanc, Benjamin Poilane  et Hervégil Voegeli pour les relectures et leurs précieux commentaires. 
 
 <!--
 <div style="text-align: left">
