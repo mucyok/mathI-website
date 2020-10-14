@@ -29,20 +29,20 @@ Vidéos disponible le 29 septembre 2020
 
 1) Example de calcul d'un extremum (global) sur un intervalle compact.
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/JXVGPEOQCb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXVGPEOQCb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 2) Example de calcul d'un extremum (global) avec le test de la dérivée première sur un intervalle ouvert.
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/Xhc7Hens0f8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xhc7Hens0f8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3) Explication du test de la dérivée seconde et petit example.
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/-cW5hCsc9Yc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-cW5hCsc9Yc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 4) Résolution d'un problème d'optimisation
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/dam16G6cZ8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dam16G6cZ8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Vidéo supplémantaire facultative

@@ -36,8 +36,8 @@ Sur la continuité
 
 Sur la dérivabilité
 
-<iframe width="2560" height="1440" src="https://www.youtube.com/embed/xuAiQOzIkWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuAiQOzIkWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sur la règle de l'Hospital
 
-<iframe width="1034" height="581" src="https://www.youtube.com/embed/PdSzruR5OeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PdSzruR5OeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
