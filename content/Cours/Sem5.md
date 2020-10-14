@@ -11,11 +11,15 @@ Vidéos disponible le 29 septembre 2020
 
 ### Cours 5
 
-1) Application de la dérivée: approximation de fonctions
+1) Application de la dérivée (partie I): approximation linéaire
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AoN4dQTI5Bs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+2) Application de la dérivée (partie II): formule de Taylor
 
-2) Application de la dérivée: optimisation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/An8UxqxaT3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+3) Application de la dérivée: optimisation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WtMa2ttSlSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
