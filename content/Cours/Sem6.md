@@ -35,7 +35,7 @@ Vidéos disponible le 29 septembre 2020
 
 1) Sur le théorème fondamentale de l'analyse
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/C7ducZoLKgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C7ducZoLKgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
