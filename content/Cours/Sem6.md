@@ -21,7 +21,7 @@ Vidéos disponible le 29 septembre 2020
 
 3) Méthodes d'intégration (partie I): intégration par parties
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WtMa2ttSlSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EDpGnsodqIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 4) Méthodes d'intégration (partie II): intégration par substitution et intégration numérique
 
