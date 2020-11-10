@@ -7,37 +7,52 @@ chapter =false
 <!--
 # :construction:
 Vidéos disponible le 29 septembre 2020
+-->
 
+### Cours 7
 
-### Cours 5
-
-1) Application de la dérivée (partie I): approximation linéaire
+1) Fonctions de deux variables (partie I): définitions et représentations graphiques
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoN4dQTI5Bs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2) Application de la dérivée (partie II): formule de Taylor
+2) Fonctions de deux variables (partie II): définitions et représentations graphiques
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/An8UxqxaT3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3) Application de la dérivée: optimisation
+3) Dérivées partielles
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WtMa2ttSlSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a92JJTW6Sn4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
--->
+### Lien utile 
+
+<a href="https://www.geogebra.org/m/m9hvRWKQ">Site/app de geogebra pour visualiser le plan tangent à une surface (entre autre).</a>
+
 
 ### Vidéos supplémantaires recommandées
 
 1) Representation graphique 3D 
 
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/2DRmfxkH_VI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2DRmfxkH_VI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+2) Sur les courbes de niveau
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WsZj5Rb6do8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+3) Sur les dérivées partielles
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfvnCHqzK54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EoEV5-_mLeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <!--
-2) Example de calcul d'un extremum (global) avec le test de la dérivée première sur un intervalle ouvert.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xhc7Hens0f8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 3) Explication du test de la dérivée seconde et petit example.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-cW5hCsc9Yc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,9 +64,8 @@ Vidéos disponible le 29 septembre 2020
 
 ### Vidéo supplémantaire facultative
 
-<!--
-1) Sur les séries de Taylor
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3d6DsjIBzJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1) La dérivée "globale" d'une fonction de deux variables
 
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9n0cRmmxkJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
