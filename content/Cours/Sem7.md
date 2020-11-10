@@ -18,8 +18,8 @@ Vidéos disponible le 29 septembre 2020
 
 2) Fonctions de deux variables (partie II): définitions et représentations graphiques
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JD0MOWXLw88" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 3) Dérivées partielles
 
