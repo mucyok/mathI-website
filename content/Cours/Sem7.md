@@ -9,6 +9,7 @@ chapter =false
 Vidéos disponible le 29 septembre 2020
 -->
 
+
 ### Cours 7
 
 1) Fonctions de deux variables (partie I): définitions et représentations graphiques
