@@ -33,6 +33,7 @@ La note des séries et celle du contrôle continue sont donc bonus. Dans le cas 
 Par exemple, si vous êtes absent au contrôle continu mais que vous avez rendu plus de 8 quiz alors la note de série compte pour 15% et l'examen final pour 85% (25%+60%).
 {{% /notice %}}
 
+
 ## Planning 
 
 Le planning ci-dessous vous indique, entre autres, les deadlines pour poster vos quiz sur [Moodle](https://moodle.unige.ch/course/view.php?id=8193). Cela doit être fait pour **chaque mardi avant minuit**. Il n'y aura **pas de possibilité de le faire après le délai**.
