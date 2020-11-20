@@ -44,13 +44,7 @@ Vidéos disponible le 29 septembre 2020
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aAU4r_pUUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-3) Sur les dérivées partielles
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dfvnCHqzK54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EoEV5-_mLeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-4) Dérivées partielles d'ordre deux et optimitation
+3) Dérivées partielles d'ordre deux et optimitation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nRJM4mY-Pq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
