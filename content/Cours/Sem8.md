@@ -24,6 +24,10 @@ Vidéos disponible le 29 septembre 2020
 
 3) Fonctions de deux varibables: optimisation (part I)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaQMyrlfOEo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 4) Fonctions de deux varibables: optimisation (part II)
 
 
