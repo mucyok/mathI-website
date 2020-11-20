@@ -31,6 +31,10 @@ Vidéos disponible le 29 septembre 2020
 4) Fonctions de deux varibables: optimisation (part II)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwnJHEqrRUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
 
