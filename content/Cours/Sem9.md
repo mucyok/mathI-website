@@ -14,7 +14,7 @@ Vidéos disponible le 29 septembre 2020
 
 1) Optimisation sous contrainte: méthode de substitution (part I)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5aVy5eCH5uE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMAzQV2h6ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 2) Optimisation sous contrainte: méthode de substitution (part II)
