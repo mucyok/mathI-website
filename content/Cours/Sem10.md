@@ -34,6 +34,7 @@ Vidéos disponible le 29 septembre 2020
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1v5UnnlczVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+{{% attachments style="grey" title="Pièces jointes" /%}}
 
 
 ### Vidéo supplémantaire recommandées
