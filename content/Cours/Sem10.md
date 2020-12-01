@@ -35,9 +35,6 @@ Vidéos disponible le 29 septembre 2020
 
 
 
-{{% attachments style="grey" title="Pièces jointes" /%}}
-
-
 
 ### Vidéo supplémantaire recommandées
 
