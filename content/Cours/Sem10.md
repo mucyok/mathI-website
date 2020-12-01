@@ -30,14 +30,14 @@ chapter =false
 
 ### Vidéo supplémantaire recommandées
 
-1) Une vidéo expliquant géométriquement ce que la méthode de Lagrange capte
+1) Résolution de système linéaire: méthode par combination
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwUV2IDLP8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="868" height="488" src="https://www.youtube.com/embed/vA-55wZtLeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2) Résolution matricielle d'un système linéaire (un exemple)
+2) Résolution matricielle d'un système linéaire
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lP1DGtZ8Wys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3) Résolution matricielle d'un système linéaire (un autre exemple)
+3) Résolution matricielle d'un système linéaire
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVDrlTdzxiI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
