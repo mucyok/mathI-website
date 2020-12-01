@@ -20,19 +20,19 @@ Vidéos disponible le 29 septembre 2020
 
 2) Systèmes linéaires: élimination de Gauss (part II)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9-_UMXEw5hE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j6PPJKSmS0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 3) Systèmes linéaires: élimination de Gauss (part III)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PhGz_oMxdYg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZkf-ENH93c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 4) Systèmes linéaires et matrices
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ckNte8vYjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1v5UnnlczVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
