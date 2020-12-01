@@ -32,7 +32,7 @@ chapter =false
 
 1) Résolution de système linéaire: méthode par combination
 
-<iframe width="868" height="488" src="https://www.youtube.com/embed/vA-55wZtLeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vA-55wZtLeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2) Résolution matricielle d'un système linéaire
 
