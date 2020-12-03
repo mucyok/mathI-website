@@ -28,7 +28,7 @@ chapter =false
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
 
-### Vidéo supplémantaire recommandées
+### Vidéos supplémantaires recommandées
 
 1) Résolution de système linéaire: méthode par combination
 
