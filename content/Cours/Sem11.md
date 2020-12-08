@@ -47,3 +47,7 @@ chapter =false
 1) Formule pour l'inverse d'une matrice 2x2 (preuve)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eEUK_ThrHuQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2) Que sont les vecteurs ? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNk_zzaMoSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
