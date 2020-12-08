@@ -13,7 +13,7 @@ chapter =false
 
 2) Systèmes linéaires nxn et matrices inverses (part II)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j6PPJKSmS0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ed6tSSEuC_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3) Systèmes linéaires nxn et déterminants (part I)
 
