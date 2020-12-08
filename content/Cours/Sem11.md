@@ -30,7 +30,7 @@ chapter =false
 
 ### Vidéos supplémantaires recommandées
 
-1) Résolution de système linéaire avec la matrice inverse (utilisant la formule de la vidéo facultative ci-dessous)
+1) Résolution d'un système linéaire 2x2 avec la matrice inverse (utilisant la formule de la vidéo facultative ci-dessous)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_DYEFtlCiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -44,6 +44,6 @@ chapter =false
 
 ### Vidéo supplémantaire facultative
 
-1) Formule pour l'invers d'une matrice 2x2 (preuve)
+1) Formule pour l'inverse d'une matrice 2x2 (preuve)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eEUK_ThrHuQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
