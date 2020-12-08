@@ -30,7 +30,7 @@ chapter =false
 
 ### Vidéos supplémantaires recommandées
 
-1) Résolution de système linéaire avec la matrice inverse (une formule pour l'inverse d'une matrice 2x2 est donnée)
+1) Résolution de système linéaire avec la matrice inverse (utilisant la formule de la vidéo facultative ci-dessous)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_DYEFtlCiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,3 +41,9 @@ chapter =false
 3) Calcul de déterminants 3x3 avec la (jolie) formule de Sarrus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4xFIi0JF2AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Vidéo supplémantaire facultative
+
+1) Formule pour l'invers d'une matrice 2x2 (preuve)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eEUK_ThrHuQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
