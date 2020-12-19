@@ -7,8 +7,6 @@ chapter =false
 
 ### Mock Exam
 
-
-
 {{% attachments style="grey" title="Pièces jointes" /%}}
 
 
