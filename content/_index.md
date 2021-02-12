@@ -16,12 +16,14 @@ Ce  cours a été préparé par [Mucyo Karemera](https://www.unige.ch/gsem/fr/re
 
 ![image](https://mkaremera-math1.netlify.app/2br.jpg?width=25pc)
 
+![image](https://mkaremera-math1.netlify.app/myface.jpg?width=25pc)
+
 Mucyo Karemera est chargé de cours et post-doctorant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) de l'Université de Genève. 
 Stéphane  Guerrier est professeur assistant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) et à la faculté des [Sciences](https://www.unige.ch/sciences/fr/) de l'Université de Genève. 
 
 
 Merci au Dr. Samuel Orso pour son aide dans l'élaboration de ce site. Nous remercions également Guillaume Blanc, Benjamin Poilane  et Hervégil Voegeli pour les relectures et leurs précieux commentaires. 
-
+<!--
 
 <div style="text-align: left">
 Bienvenu sur la page du cours de Mathématiques I. Je m'appelle Mucyo Karemera et je suis chargé de cours et post-doctorant à la faculté de la Geneva School of Economics and Management de l'Université de Genève.
@@ -30,7 +32,7 @@ Bienvenu sur la page du cours de Mathématiques I. Je m'appelle Mucyo Karemera e
 Je m'appelle [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/), je suis chargé de cours et post-doctorant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) de l'Université de Genève. 
 </div> 
 
-<!--
+
 -->
 
 
