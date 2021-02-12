@@ -22,15 +22,11 @@ Stéphane  Guerrier est professeur assistant à la faculté de la [GSEM](https:/
 
 Merci au Dr. Samuel Orso pour son aide dans l'élaboration de ce site. Nous remercions également Guillaume Blanc, Benjamin Poilane et Hervégil Voegeli pour les relectures et leurs précieux commentaires. 
 <!--
-
 <div style="text-align: left">
 Bienvenu sur la page du cours de Mathématiques I. Je m'appelle Mucyo Karemera et je suis chargé de cours et post-doctorant à la faculté de la Geneva School of Economics and Management de l'Université de Genève.
 
-
 Je m'appelle [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/), je suis chargé de cours et post-doctorant à la faculté de la [GSEM](https://www.unige.ch/gsem/fr/) de l'Université de Genève. 
 </div> 
-
-
 -->
 
 
