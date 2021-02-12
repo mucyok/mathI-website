@@ -14,7 +14,7 @@ weight = 5
 
 Ce  cours a été préparé par [Mucyo Karemera](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/mucyo-karemera/) et  [Stéphane  Guerrier](https://www.unige.ch/gsem/en/research/faculty/all/stephane-guerrier). 
 
-![image](https://mkaremera-math1.netlify.app/2br.jpg?width=25pc)
+![image](https://mkaremera-math1.netlify.app/2br.pdf?width=25pc)
 
 ![image](https://mkaremera-math1.netlify.app/myface.jpg?width=25pc)
 
